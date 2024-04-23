@@ -1,0 +1,41 @@
+body{
+
+    background-color: antiquewhite;
+    width: auto;
+    margin: auto;
+
+}
+
+
+
+h1{              
+
+color: black;
+text-align: center;
+
+}
+
+
+h2{           
+
+color: black;
+text-align: center;
+
+}
+
+
+h4{     
+color: black;
+text-align: center;
+
+
+}
+
+img{
+
+         width:700px ;
+         height: 500px;
+         display: block;
+         margin: auto;
+
+}
